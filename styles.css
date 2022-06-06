@@ -1,0 +1,36 @@
+#profile {
+    display: grid;
+    grid-template-rows: repeat(1, 100px);
+    margin-bottom: 600px;
+}
+
+.profilepic {
+border-radius: 50%;
+margin-bottom: 50px;
+margin-top: -80px;
+position: absolute top;
+}
+
+.profile {
+text-align: right;
+position: absolute top;
+margin-top: 80px;
+font-weight: bold;
+font-size: 35px;
+}
+
+.user {
+    margin-top: 5px;
+}
+
+.location {
+    margin-top: 5px;
+}
+
+.url {
+    margin-top: 5px;
+}
+
+.myprofileinfo {
+    border: solid gray 2px;
+}
